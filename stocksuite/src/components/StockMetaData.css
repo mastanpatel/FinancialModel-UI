@@ -1,0 +1,12 @@
+.ag-row-hover {
+    /* putting in !important so it overrides the theme's styling as it hovers the row also */
+    background-color: #a6afca !important;
+  }
+  
+  /* .ag-column-hover {
+    background-color: #c8cddb;
+  } */
+
+  .ag-header-viewport{
+    background-color: seagreen;
+  }
